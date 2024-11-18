@@ -86,7 +86,7 @@ taken:
 
 # ----------------------------------------------------------------------------------------
 # TODO: Add an example with a load stalling for 1 cycle to pass a value to a NOT-TAKEN branch 
-#  Is this a data hazard or a control hazard?
+#  Is this a data hazard or a control hazard?!!!!!!
 # ----------------------------------------------------------------------------------------
     # nop instructions added between examples
     add  zero, zero, zero  
